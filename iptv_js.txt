@@ -37,16 +37,8 @@ http://122.96.52.98:8006/JS_CUCC/G_CCTV-16-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nn
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-17-HQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEvZuARt3SsS1lp07gslq8B54LedphZzylPEmlN2UDQol&p=GITV&area=JS_CUCC
 #EXTINF:-1 group-title="CCTV" tvg-name="CGTN新闻",CGTN新闻
 http://122.96.52.98:8006/JS_CUCC/G_CCTV-NEWS.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEq%2FOFGGWwmuEqZCpNU2lpMI02fQ712gaPW1S8iZfrxPb&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="教育" tvg-name="CETV1",CETV-1
-http://122.96.52.98:8006/JS_CUCC/G_CETV-1.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEv1o35%2BVkhqZg4WpI44LgYQLxkknW%2BHqbwwyg1PzUQok&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="教育" tvg-name="CETV2",CETV-2
-http://122.96.52.98:8006/JS_CUCC/G_CETV-2.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEgWtscwZsLIeCX4lNPPVSa8LxkknW%2BHqbwwyg1PzUQok&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="教育" tvg-name="CETV3",CETV-3
-http://122.96.52.98:8006/JS_CUCC/G_CETV-3.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEtKB43Jj647OcHilv0oxiEALxkknW%2BHqbwwyg1PzUQok&p=GITV&area=JS_CUCC
-#EXTINF:-1 group-title="教育" tvg-name="CETV4",CETV-4
-http://122.96.52.98:8006/JS_CUCC/G_CETV-4.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEiByI341AZF720jOgKAMqfALxkknW%2BHqbwwyg1PzUQok&p=GITV&area=JS_CUCC
 
-#EXTINF:-1 group-title="江苏" tvg-name="江苏卫视",江苏卫视
+#EXTINF:-1 group-title="卫视" tvg-name="江苏卫视",江苏卫视
 http://122.96.52.98:8006/JS_CUCC/G_JIANGSU-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEu%2B73CN7TjP4aPry8BxkIZp4LedphZzylPEmlN2UDQol&p=GITV&area=JS_CUCC
 #EXTINF:-1 group-title="卫视" tvg-name="北京卫视",北京卫视
 http://122.96.52.98:8006/JS_CUCC/G_BEIJING-CQ.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEt6ptYCV0fCKRLa0se%2BHo4x4LedphZzylPEmlN2UDQol&p=GITV&area=JS_CUCC
@@ -138,3 +130,12 @@ http://122.96.52.98:8006/JS_CUCC/G_JSJY.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEjsY
 http://122.96.52.98:8006/JS_CUCC/G_JSGG.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEnaaipXQfT6mvlq1T4j6uU3El4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
 #EXTINF:-1 group-title="江苏" tvg-name="江苏休闲体育",江苏休闲体育
 http://122.96.52.98:8006/JS_CUCC/G_JSTY.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEoAQpkXItVA4eG3wN%2BSQc93El4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
+
+#EXTINF:-1 group-title="教育" tvg-name="CETV1",CETV-1
+http://122.96.52.98:8006/JS_CUCC/G_CETV-1.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEv1o35%2BVkhqZg4WpI44LgYQLxkknW%2BHqbwwyg1PzUQok&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="教育" tvg-name="CETV2",CETV-2
+http://122.96.52.98:8006/JS_CUCC/G_CETV-2.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEgWtscwZsLIeCX4lNPPVSa8LxkknW%2BHqbwwyg1PzUQok&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="教育" tvg-name="CETV3",CETV-3
+http://122.96.52.98:8006/JS_CUCC/G_CETV-3.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEtKB43Jj647OcHilv0oxiEALxkknW%2BHqbwwyg1PzUQok&p=GITV&area=JS_CUCC
+#EXTINF:-1 group-title="教育" tvg-name="CETV4",CETV-4
+http://122.96.52.98:8006/JS_CUCC/G_CETV-4.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEiByI341AZF720jOgKAMqfALxkknW%2BHqbwwyg1PzUQok&p=GITV&area=JS_CUCC
