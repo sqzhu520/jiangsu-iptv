@@ -110,17 +110,17 @@ http://122.96.52.98:8006/JS_CUCC/G_NANFANG.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtE
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵团卫视.png" group-title="📡卫视频道",兵团卫视
 http://122.96.52.98:8006/JS_CUCC/G_BINGTUAN.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEoU5XufNOd%2FprEwiDApHRL0QaHAEACuZbe%2FR8zzHoaHM&p=GITV&area=JS_CUCC
 
-#EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏城市.png" group-title="📡江苏",江苏城市
+#EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏城市.png" group-title="🏠江苏",江苏城市
 http://122.96.52.98:8006/JS_CUCC/G_JSCS.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtErf9B6OvkNf7eoPnVhcls1vEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
-#EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏综艺.png" group-title="📡江苏",江苏综艺
+#EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏综艺.png" group-title="🏠江苏",江苏综艺
 http://122.96.52.98:8006/JS_CUCC/G_JSZY.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEncrSBfKQn4Q5ZoKMcKsr4jEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
-#EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏影视.png" group-title="📡江苏",江苏影视
+#EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏影视.png" group-title="🏠江苏",江苏影视
 http://122.96.52.98:8006/JS_CUCC/G_JSYS.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEsbz4xIpXVtCFIMno2yuqVbEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
-#EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏教育.png" group-title="📡江苏",江苏教育
+#EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏教育.png" group-title="🏠江苏",江苏教育
 http://122.96.52.98:8006/JS_CUCC/G_JSJY.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEjsYt23pVNf2zqF2rhGnDDHEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
-#EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏新闻.png" group-title="📡江苏",江苏新闻
+#EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏新闻.png" group-title="🏠江苏",江苏新闻
 http://122.96.52.98:8006/JS_CUCC/G_JSGG.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEnaaipXQfT6mvlq1T4j6uU3El4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
-#EXTINF:-1 tvg-name="江苏休闲体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏休闲体育.png" group-title="📡江苏",江苏休闲体育
+#EXTINF:-1 tvg-name="江苏休闲体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏休闲体育.png" group-title="🏠江苏",江苏休闲体育
 http://122.96.52.98:8006/JS_CUCC/G_JSTY.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEoAQpkXItVA4eG3wN%2BSQc93El4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
 
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="📺教育",CETV1
