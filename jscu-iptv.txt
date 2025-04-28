@@ -132,3 +132,16 @@ http://122.96.52.98:8006/JS_CUCC/G_CETV-2.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEg
 http://122.96.52.98:8006/JS_CUCC/G_CETV-3.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEtKB43Jj647OcHilv0oxiEALxkknW%2BHqbwwyg1PzUQok&p=GITV&area=JS_CUCC
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="📚教育",CETV4
 http://122.96.52.98:8006/JS_CUCC/G_CETV-4.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEiByI341AZF720jOgKAMqfALxkknW%2BHqbwwyg1PzUQok&p=GITV&area=JS_CUCC
+
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/卡酷少儿.png" group-title="🪁少儿",卡酷少儿
+http://122.96.52.98:8006/JS_CUCC/G_KAKU.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEvCRWHH5zs7t0tvZkMZOkqLEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🪁少儿",金鹰卡通
+http://122.96.52.98:8006/JS_CUCC/G_JINYING.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEhq0dyfDyv%2BvSb71EJmi%2FwuxTZEnSNJCJ6fNvBQEArTZ&p=GITV&area=JS_CUCC
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/嘉佳卡通.png" group-title="🪁少儿",嘉佳卡通
+http://122.96.52.98:8006/JS_CUCC/G_JIAJIA.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEjeasMvBuKP6GPZxFFWsFH4YUAl3uT6KyhhyA3GPqkYe&p=GITV&area=JS_CUCC
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/优漫卡通.png" group-title="🪁少儿",优漫卡通
+http://122.96.52.98:8006/JS_CUCC/G_YOUMAN.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEoaYG6bplRDRKBOwZRNifGgYUAl3uT6KyhhyA3GPqkYe&p=GITV&area=JS_CUCC
+#EXTINF:-1 tvg-name="炫动卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/炫动卡通.png" group-title="🪁少儿",炫动卡通
+http://122.96.52.98:8006/JS_CUCC/G_XUANDONG.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtElHAdYz2UZrlFf6hIAWx9LlYXTUjY6TEKXN37EwEhDWj&p=GITV&area=JS_CUCC
+#EXTINF:-1 tvg-name="南京少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/南京少儿.png" group-title="🪁少儿",南京少儿
+http://122.96.52.98:8006/JS_CUCC/G_NJSE.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtErV9ZZLHPB2iNJDmdQ9xIhzEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
